@@ -1,0 +1,41 @@
+{
+  "user_1": {
+    "telemetry": [
+      {"ts": "2025-10-20T00:00:00", "steps": 5421, "water_ml": 1800, "sleep_hours": 7.2, "screen_minutes": 210},
+      {"ts": "2025-10-21T00:00:00", "steps": 3100, "water_ml": 950, "sleep_hours": 5.5, "screen_minutes": 332},
+      {"ts": "2025-10-22T00:00:00", "steps": 6100, "water_ml": 1650, "sleep_hours": 7.8, "screen_minutes": 190},
+      {"ts": "2025-10-23T00:00:00", "steps": 2400, "water_ml": 820, "sleep_hours": 6.0, "screen_minutes": 420},
+      {"ts": "2025-10-24T00:00:00", "steps": 7800, "water_ml": 2000, "sleep_hours": 8.1, "screen_minutes": 165},
+
+      {"ts": "2025-10-25T00:00:00", "steps": 3100, "water_ml": 700, "sleep_hours": 5.0, "screen_minutes": 350},
+      {"ts": "2025-10-26T00:00:00", "steps": 5200, "water_ml": 1400, "sleep_hours": 7.0, "screen_minutes": 230},
+      {"ts": "2025-10-27T00:00:00", "steps": 6900, "water_ml": 1700, "sleep_hours": 8.0, "screen_minutes": 200},
+      {"ts": "2025-10-28T00:00:00", "steps": 2800, "water_ml": 900, "sleep_hours": 6.2, "screen_minutes": 380},
+      {"ts": "2025-10-29T00:00:00", "steps": 4100, "water_ml": 1550, "sleep_hours": 7.1, "screen_minutes": 245},
+
+      {"ts": "2025-10-30T00:00:00", "steps": 3300, "water_ml": 1100, "sleep_hours": 5.8, "screen_minutes": 300},
+      {"ts": "2025-10-31T00:00:00", "steps": 8700, "water_ml": 2100, "sleep_hours": 8.5, "screen_minutes": 150},
+      {"ts": "2025-11-01T00:00:00", "steps": 2900, "water_ml": 850, "sleep_hours": 6.1, "screen_minutes": 410},
+      {"ts": "2025-11-02T00:00:00", "steps": 5100, "water_ml": 1450, "sleep_hours": 7.4, "screen_minutes": 260},
+      {"ts": "2025-11-03T00:00:00", "steps": 6600, "water_ml": 1800, "sleep_hours": 7.9, "screen_minutes": 220},
+
+      {"ts": "2025-11-04T00:00:00", "steps": 3500, "water_ml": 1020, "sleep_hours": 6.3, "screen_minutes": 315},
+      {"ts": "2025-11-05T00:00:00", "steps": 7200, "water_ml": 1950, "sleep_hours": 8.0, "screen_minutes": 190},
+      {"ts": "2025-11-06T00:00:00", "steps": 4200, "water_ml": 1350, "sleep_hours": 7.2, "screen_minutes": 250},
+      {"ts": "2025-11-07T00:00:00", "steps": 2600, "water_ml": 780, "sleep_hours": 5.4, "screen_minutes": 390},
+      {"ts": "2025-11-08T00:00:00", "steps": 5900, "water_ml": 1600, "sleep_hours": 7.6, "screen_minutes": 240},
+
+      {"ts": "2025-11-09T00:00:00", "steps": 3100, "water_ml": 950, "sleep_hours": 6.0, "screen_minutes": 350},
+      {"ts": "2025-11-10T00:00:00", "steps": 7800, "water_ml": 2100, "sleep_hours": 8.2, "screen_minutes": 180},
+      {"ts": "2025-11-11T00:00:00", "steps": 3300, "water_ml": 1180, "sleep_hours": 5.9, "screen_minutes": 310},
+      {"ts": "2025-11-12T00:00:00", "steps": 6800, "water_ml": 1900, "sleep_hours": 7.7, "screen_minutes": 200},
+      {"ts": "2025-11-13T00:00:00", "steps": 2400, "water_ml": 750, "sleep_hours": 5.3, "screen_minutes": 420},
+
+      {"ts": "2025-11-14T00:00:00", "steps": 5400, "water_ml": 1500, "sleep_hours": 7.4, "screen_minutes": 260},
+      {"ts": "2025-11-15T00:00:00", "steps": 7100, "water_ml": 1750, "sleep_hours": 8.1, "screen_minutes": 210},
+      {"ts": "2025-11-16T00:00:00", "steps": 2800, "water_ml": 900, "sleep_hours": 6.1, "screen_minutes": 370},
+      {"ts": "2025-11-17T00:00:00", "steps": 6200, "water_ml": 1600, "sleep_hours": 7.8, "screen_minutes": 230},
+      {"ts": "2025-11-18T00:00:00", "steps": 3300, "water_ml": 1050, "sleep_hours": 6.0, "screen_minutes": 300}
+    ]
+  }
+}
